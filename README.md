@@ -2,6 +2,10 @@
 
 Este repositório contém uma série de projetos e exercícios desenvolvidos como parte da trilha básica de aprendizado de Java.
 
+## Artigo Dominando o Java Básico
+
+https://www.dio.me/articles/dominando-o-java-basico
+
 ## Sobre
 
 A trilha básica de Java destina-se a iniciantes que desejam aprender os fundamentos da linguagem de programação Java. Ela abrange os seguintes tópicos:
