@@ -1,18 +1,45 @@
-## Getting Started
+# ContaTerminal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um simples programa em Java que simula a criação de uma conta bancária e exibe os detalhes da conta inseridos pelo usuário. Este projeto foi desenvolvido como parte de um desafio de programação.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- Solicita ao usuário o número da conta, número da agência, nome do cliente e saldo da conta.
+- Verifica se o saldo inserido é válido (não negativo).
+- Exibe uma mensagem de boas-vindas ao cliente com os detalhes da conta.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como usar
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Certifique-se de ter o Java instalado em sua máquina.
+2. Baixe ou clone este repositório.
+3. Navegue até o diretório `src`.
+4. Compile o código-fonte com o comando `javac ContaTerminal.java`.
+5. Execute o programa com o comando `java ContaTerminal`.
+6. Siga as instruções no terminal para inserir os detalhes da conta.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Exemplo de Saída
 
-## Dependency Management
+Por favor, digite o número da conta:
+123456
+Por favor, digite o número da agência:
+7890
+Por favor, digite o seu nome:
+John Doe
+Por favor, digite o saldo:
+1000.50
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Olá John Doe, obrigado por criar uma conta em nosso banco! Sua agência é 7890, conta 123456 e seu saldo R$ 1.000,50 já está disponível para saque.
+
+## Contribuindo
+
+Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades. Basta abrir uma nova "issue" ou enviar um "pull request".
+
+## Desafio
+
+Este projeto foi desenvolvido como parte de um desafio de programação da dio.me. Tente implementar novas funcionalidades ou melhorias para aprimorar o programa!
+
+## Autor
+
+Este projeto foi desenvolvido por Jullia. Você pode entrar em contato comigo em https://www.linkedin.com/in/jullialayne/.
+
+
