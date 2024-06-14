@@ -28,6 +28,8 @@ O repositório está organizado da seguinte forma:
 
 - **Exercicios**: Esta pasta contém uma série de exercícios práticos para reforçar os conceitos aprendidos.
 - **Projetos**: Aqui estão os projetos práticos desenvolvidos ao longo da trilha. Cada projeto aborda um conjunto específico de conceitos.
+    - **Contador**: Um projeto simples que solicita ao usuário dois números inteiros e realiza uma contagem do primeiro número até o segundo. Inclui validação de entrada e tratamento de exceções.
+    - **Conta Simples de Saldo**: Um projeto básico que simula uma conta bancária. Permite ao usuário depositar, sacar e consultar o saldo da conta, com validação de operações e tratamento de exceções.
 - **Desafios**: Desafios extras para testar suas habilidades e conhecimentos adquiridos.
 
 ## Como Usar
